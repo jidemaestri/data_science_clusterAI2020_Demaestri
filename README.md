@@ -24,20 +24,16 @@ Los datasets empleados para el armado del modelo que verifique la hipótesis son
 - <b>Medición factores meteorológicos CABA</b>.  (Gobierno de la Ciudad de Buenos Aires, 2020).  Información meteorológica recolectada por Torres de Monitoreo Inteligente (TMI) distribuidas en distintos puntos de la Ciudad.
 
 <br>
-<br>
 
 <u>Trabajo realizado</u>:
 <br>
 <br>
-- EDA y Procesamiento de datos
+1. EDA y Procesamiento de datos
 <br>
+2. Aplicación de Modelos de Machine Learning (se aplicaron modelos de aprendizaje supervisado) para realizar una regresión.
 <br>
-- Aplicación de Modelos de Machine Learning (se aplicaron modelos de aprendizaje supervisado) para realizar una regresión.
+3.Slides del Proyecto
 <br>
-<br>
-- Slides del Proyecto
-<br>
-<br>
-- Video Exposición
+4.Video Exposición
 
 
