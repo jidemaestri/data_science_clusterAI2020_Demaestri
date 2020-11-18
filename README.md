@@ -8,6 +8,7 @@
 El principal objetivo de este trabajo es tratar de entender cómo afectan a la evolución del virus, diferentes variables, tales como factores climáticos, aglomeraciones de personas, el movimiento urbano, entre otros. Para ello, se tratará de predecir la evolución del virus mediante una regresión lineal acorde a dichos factores, empleando herramientas de Inteligencia Artificial y Machine Learning.
 
 <br>
+<br>
 Los datasets empleados para el armado del modelo que verifique la hipótesis son los que se detallan a continuación:
 <br>
 <br>
