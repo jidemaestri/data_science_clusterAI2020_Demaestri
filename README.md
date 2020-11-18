@@ -10,30 +10,31 @@ El principal objetivo de este trabajo es tratar de entender cómo afectan a la e
 <br>
 Los datasets empleados para el armado del modelo que verifique la hipótesis son los que se detallan a continuación:
 <br>
--<b>Casos COVID-19</b>. (Gobierno de la Ciudad de Buenos Aires, 2020). Incluye la cantidad de casos positivos, altas institucionales, fallecidos y descartados por COVID-19 según lo reportado por el Sistema Integrado de Información Sanitaria Argentino (SISA).
 <br>
--<b>Datos censo 2010 CABA</b>. (Gobierno de la Ciudad de Buenos Aires, 2020)
+- <b>Casos COVID-19</b>. (Gobierno de la Ciudad de Buenos Aires, 2020). Incluye la cantidad de casos positivos, altas institucionales, fallecidos y descartados por COVID-19 según lo reportado por el Sistema Integrado de Información Sanitaria Argentino (SISA).
 <br>
--<b>Molinetes 2020</b>. (Gobierno de la Ciudad de Buenos Aires, 2020). Cantidad de pasajeros por molinete en cada estación en rangos de a 15 minutos y discriminando según tipo de pasaje correspondiente al año 2020.
+- <b>Datos censo 2010 CABA</b>. (Gobierno de la Ciudad de Buenos Aires, 2020)
 <br>
--<b>Estaciones Subtes</b>(geolocalización) (Gobierno de la Ciudad de Buenos Aires, 2020)
+- <b>Molinetes 2020</b>. (Gobierno de la Ciudad de Buenos Aires, 2020). Cantidad de pasajeros por molinete en cada estación en rangos de a 15 minutos y discriminando según tipo de pasaje correspondiente al año 2020.
 <br>
--<b>Barrios CABA(mapa)</b> (Gobierno de la Ciudad de Buenos Aires, 2020)
+- <b>Estaciones Subtes</b>(geolocalización) (Gobierno de la Ciudad de Buenos Aires, 2020)
 <br>
--<b>Medición factores meteorológicos CABA</b>.  (Gobierno de la Ciudad de Buenos Aires, 2020).  Información meteorológica recolectada por Torres de Monitoreo Inteligente (TMI) distribuidas en distintos puntos de la Ciudad.
+- <b>Barrios CABA(mapa)</b> (Gobierno de la Ciudad de Buenos Aires, 2020)
+<br>
+- <b>Medición factores meteorológicos CABA</b>.  (Gobierno de la Ciudad de Buenos Aires, 2020).  Información meteorológica recolectada por Torres de Monitoreo Inteligente (TMI) distribuidas en distintos puntos de la Ciudad.
 
 <br>
 <br>
 
 <u>Trabajo realizado</u>:
-
 <br>
--EDA y Procesamiento de datos
 <br>
--Aplicación de Modelos de Machine Learning (se aplicaron modelos de aprendizaje supervisado) para realizar una regresión.
+- EDA y Procesamiento de datos
 <br>
--Slides del Proyecto
+- Aplicación de Modelos de Machine Learning (se aplicaron modelos de aprendizaje supervisado) para realizar una regresión.
 <br>
--Video Exposición
+- Slides del Proyecto
+<br>
+- Video Exposición
 
 
