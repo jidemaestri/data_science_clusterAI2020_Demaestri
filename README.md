@@ -27,7 +27,7 @@ Los datasets empleados para el armado del modelo que verifique la hipótesis son
 <br>
 <br>
 
-<u>Trabajo realizado</u>:
+<u> Trabajo realizado </u>:
 
 <br>
 1. EDA y Procesamiento de datos
