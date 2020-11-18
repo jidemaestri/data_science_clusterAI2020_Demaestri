@@ -24,6 +24,8 @@ Los datasets empleados para el armado del modelo que verifique la hipótesis son
 - <b>Medición factores meteorológicos CABA</b>.  (Gobierno de la Ciudad de Buenos Aires, 2020).  Información meteorológica recolectada por Torres de Monitoreo Inteligente (TMI) distribuidas en distintos puntos de la Ciudad.
 
 <br>
+<br>
+<br>
 
 <u>Trabajo realizado</u>:
 
