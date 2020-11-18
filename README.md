@@ -31,9 +31,12 @@ Los datasets empleados para el armado del modelo que verifique la hipótesis son
 <br>
 - EDA y Procesamiento de datos
 <br>
+<br>
 - Aplicación de Modelos de Machine Learning (se aplicaron modelos de aprendizaje supervisado) para realizar una regresión.
 <br>
+<br>
 - Slides del Proyecto
+<br>
 <br>
 - Video Exposición
 
