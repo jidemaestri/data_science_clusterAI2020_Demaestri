@@ -37,7 +37,7 @@ Los datasets empleados para el armado del modelo que verifique la hipótesis son
 <br>
 3. Slides del Proyecto
 <br>
-4. Video Exposición
+4. Video Exposición: https://youtu.be/9TE5cf5ERvs
 
 
 
